@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104650045238",
+    "project_id": "digital-twin-g7-project",
+    "storage_bucket": "digital-twin-g7-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104650045238:android:c51c5cd40ec2557dc9a597",
+        "android_client_info": {
+          "package_name": "com.example.ev_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVvnlxp08Qmrou_dc9kSLagEdGY8bEr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

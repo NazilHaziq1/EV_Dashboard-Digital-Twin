@@ -1,0 +1,6 @@
+{
+  "java.jdt.ls.java.home": "/Applications/Android Studio.app/Contents/jbr/Contents/Home",
+  "java.import.gradle.java.home": "/Applications/Android Studio.app/Contents/jbr/Contents/Home",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "dart.flutterSdkPath": "/Users/haziqnazil/flutter"
+}
