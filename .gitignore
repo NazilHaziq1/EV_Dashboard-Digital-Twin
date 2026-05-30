@@ -43,3 +43,26 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Environment variables and secrets - NEVER COMMIT THESE
+.env
+.env.local
+.env.*.local
+*.env
+
+# Google service files with real credentials
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Firebase config
+firebase.json
+
+# API Keys and credentials
+.secrets/
+*.key
+*.pem
+
+# Android keystore
+key.properties
+**/*.keystore
+**/*.jks
